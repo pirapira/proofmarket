@@ -8,7 +8,7 @@ you can bet for `A` or `not A`.
 When someone submits a proof of `A`, all bets on `not A` are distributed among the betters for `A`.
 
 If Alice wants `A` to be proved, she can bet a large amount for `not A`.
-Then hopefully Bob proves `A`, bets a small amount on `A`, and gets the large amount from Alice.
+Then hopefully Bob bets a small amount on `A`, proves `A`, and gets the large amount from Alice.
 So far the story is just about buying and selling proofs.
 However, in a prediction market, a third party can speculate.
 If Charlie bets for `A` before Bob appears, Charlie gets free money when `A` is proved.
