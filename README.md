@@ -1,5 +1,5 @@
-A design for proof markets
-==========================
+A Design for Proof Market
+============================
 
 Writing `Agda` or `Coq` is fun, but intellectual
 pleasure is not enough.  Formal proofs should be rewarded financially.
@@ -16,6 +16,6 @@ If Charlie bets for `A` before Bob appears, Charlie gets free money when `A` is 
 
 What if the specification of `A` is wrong and actually `not A` can be proved?
 In that case, Alice wants to prove `not A` soon to get back her money.
-Or, Alice could be malicious enough to invite speculaters like Charlie to make mistakes.
+Or, Alice could be malicious enough to invite speculators like Charlie to make mistakes.
 
 The whole picture will be, after all, fun to watch and participate.
