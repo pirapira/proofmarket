@@ -1,4 +1,4 @@
-A Design for Proof Market
+A Design for Proof Markets
 ============================
 
 Writing `Agda` or `Coq` is fun, but intellectual pleasure is not enough.  Formal proofs should be rewarded financially.
