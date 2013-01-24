@@ -1,7 +1,7 @@
 A Design for Proof Markets
 ============================
 
-Writing `Agda` or `Coq` is fun, but intellectual pleasure is not enough.  Formal proofs should be rewarded financially.
+Writing Agda or Coq is fun, but intellectual pleasure is not enough.  Formal proofs should be rewarded financially.
 
 I propose a design of *proof markets* using the technique of *prediction markets*, where
 you can bet for `A` or `not A`.
